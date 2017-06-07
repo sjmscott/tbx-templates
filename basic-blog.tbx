@@ -804,8 +804,8 @@
 <attribute name="HTMLExportTemplate" >/system/templates/html_page</attribute>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-06-06T20:04:53-07:00</attribute>
-<attribute name="Name" >Blog Posts</attribute>
-<attribute name="SelectionCount" >26</attribute>
+<attribute name="Name" >index</attribute>
+<attribute name="SelectionCount" >27</attribute>
 <attribute name="Sort" >PublishDate</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -1322,7 +1322,7 @@ Key Links
 <window bounds="Rect[ 60 74 1404 1027]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1496803234" scrollX="332.25" scrollY="375" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.5" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1496803234" scrollX="0" scrollY="0" selection="1496807139 " expanded="1496803236 1496807948 1496807132 1496803242 1496803243 1496803244 1496807131 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.674851" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1496803234" scrollX="0" scrollY="0" selection="1496803236 " expanded="1496803236 1496807948 1496807132 1496803242 1496803243 1496803244 1496807131 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.674851" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
